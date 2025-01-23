@@ -24,18 +24,19 @@ Certainly, here are the step-by-step instructions for setting up and running the
    - go to this website: https://dashboard.render.com/web
    - then click on new and choose web serivces
    - choose this :Build and deploy from a Git repository and click on next
-   - then in settings :![image]()
+   - then in settings : ![alt text](image-1.png)
 
 
 6. **So click on manual Deploy and select deploy with latest commit**
    - and wait 2-3 mins after that your website will be published.
-   - 
+   - https://sms-spam-classifier-31g5.onrender.com/
 
-   ![image]()
+   ![alt text](image-2.png)
+   ![alt text](image-3.png)
 
    The output:
-   ![image]()
-
+   
+   ![alt text](image-4.png)
 
    
 
