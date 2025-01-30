@@ -1,6 +1,6 @@
 # SmS_Spam_Classifier
 
-Project deplyed on Render. Please click the link aside for live demo. [https://github.com/swan28/SMS-Spam-Classifier]
+Project deployed on Render. Please click the link aside for live demo. [https://sms-spam-classifier-31g5.onrender.com/]
 
 Certainly, here are the step-by-step instructions for setting up and running the application using a virtual environment for Python 3.9:
 
