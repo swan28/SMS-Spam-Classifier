@@ -1,5 +1,7 @@
 # SmS_Spam_Classifier
 
+Project deplyed on Render. Please click the link aside for live demo. [https://github.com/swan28/SMS-Spam-Classifier]
+
 Certainly, here are the step-by-step instructions for setting up and running the application using a virtual environment for Python 3.9:
 
 1. **Setup Virtual Environment**:
@@ -26,10 +28,9 @@ Certainly, here are the step-by-step instructions for setting up and running the
    - choose this :Build and deploy from a Git repository and click on next
    - then in settings : ![alt text](image-1.png)
 
-
 6. **So click on manual Deploy and select deploy with latest commit**
-   - and wait 2-3 mins after that your website will be published.
-   - https://sms-spam-classifier-31g5.onrender.com/
+   - Wait 2-3 mins after that your website will be published.
+   - https://sms-spam-classifier-31g5.onrender.com/ 
 
    ![alt text](image-2.png)
    ![alt text](image-3.png)
